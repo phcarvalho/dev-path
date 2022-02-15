@@ -57,6 +57,21 @@ _Focus on learning that something exists and is possible to do but don't stress 
 - package.json file
 - Example
 
+# Git
+
+## Fundamentals
+
+- What and why
+- Creating a repository
+
+## How to use
+
+- git clone
+- git pull
+- git add
+- git commit
+- git push
+
 # Backend
 
 ## Introduction
