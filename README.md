@@ -45,6 +45,8 @@ _Focus on learning that something exists and is possible to do but don't stress 
 
 ## More on Array
 
+- push
+- join / split
 - find
 - filter
 - includes
